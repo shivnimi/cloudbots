@@ -2,3 +2,9 @@
 *.py
 *.cpp
 
+
+!important.py
+
+
+[aeiou]*.py
+
